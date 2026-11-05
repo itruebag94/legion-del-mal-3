@@ -8,4 +8,5 @@ Esta estrategia consiste en apartar a Robin de la Liga de la Justicia para poder
 3. Atraer a Batman a los suburbios de Ciudad Gothica
 4. Capturar a Batman
 5. Congelarlo con Hidrogeno Liquido
+6. Preservar el cuerpo de Batman en una camara de congelación a -40 grados
 
