@@ -38,7 +38,7 @@ Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen en
 | 🥉 Jefa de infiltración   | Mystique   | Espionaje, identidades falsas y operaciones encubiertas |
 | ⚙️ Director de tecnología | Brainiac   | Sistemas, armamento y recopilación de datos             |
 
-## Miembros activos (campo)
+## Miembros activos (campo)!!!!
 
 - **Joker** — Operaciones de distracción y caos
 - **Doctor Doom** — Armamento avanzado y magia
