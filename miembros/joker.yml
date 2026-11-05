@@ -1,0 +1,52 @@
+# =============================================
+# FICHA DE VILLANO - LEGIÓN DEL MAL
+# =============================================
+
+nombre: "Joker"
+designacion: "Joker - El Príncipe Payaso del Crimen"
+universo: DC
+rango: "Especialista en caos y guerra psicológica"
+estado: activo
+
+perfil:
+  identidad_publica: "Desconocida. Sin registros ni huellas dactilares oficiales."
+  motivacion: "Demostrar que cualquiera puede volverse loco con un mal día y romper la lógica del mundo mediante el caos absoluto."
+  frase_celebre: "¿Por qué tan serio? La vida es solo un chiste sin gracia."
+
+habilidades:
+  - Impredecibilidad absoluta e inmunidad a análisis tácticos o control mental
+  - Químico experto, creador del veneno letal del Joker
+  - Tolerancia sobrehumana al dolor y alta resistencia a toxinas
+  - Maatria en manipulación psicológica y tortura mental
+  - Combate cuerpo a cuerpo errático con armas de utilería modificadas
+
+debilidades:
+  - Obsesión enfermiza con Batman (prioriza llamar su atención sobre la victoria)
+  - Carencia de superpoderes o armadura de protección
+  - Incapaz de seguir planes estructurados, lo que desespera a sus aliados
+
+recursos:
+  - Laboratorio clandestino de toxinas, explosivos y gas de la risa
+  - Flota de vehículos modificados con temática de feria
+  - Arsenal de utilería mortal (flores con ácido, zumbadores de alto voltaje, cartas afiladas)
+  - Red de matones a sueldo y secuaces manipulables
+
+rol_en_la_legion: |
+  Joker es la carta salvaje de la Legión del Mal. No le interesan los
+  objetivos estratégicos ni el dinero, sino el espectáculo. Se le encarga
+  sembrar el pánico masivo y distraer a los héroes mientras los demás miembros
+  ejecutan sus misiones. Nadie confía en él, pero su capacidad para desestabilizar
+  a héroes como Batman es indispensable para el grupo.
+
+rivalidad_principal: Batman
+guarida_asignada: "Parque de Atracciones Abandonado"
+misiones_completadas: 12
+misiones_fallidas: 8
+
+notas_confidenciales: |
+  Brainiac intenta constantemente calcular la lógica de Joker sin éxito,
+  catalogándolo como un "error estadístico impredecible". Lex Luthor lo mantiene
+  en la Legión bajo estricta vigilancia, financiando sus suministros a cambio de
+  sus servicios de distracción. Joker sospecha de todos y ha colocado pequeñas
+  sorpresas químicas en los conductos de ventilación de la Base Lunar "por si acaso
+  la reunión se vuelve aburrida".

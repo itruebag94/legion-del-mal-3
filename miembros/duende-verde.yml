@@ -1,0 +1,51 @@
+# =============================================
+# FICHA DE VILLANO - LEGIÓN DEL MAL
+# =============================================
+
+nombre: "Duende Verde"
+designacion: "Duende Verde - Norman Osborn"
+universo: Marvel
+rango: "Inversionista y estratega aéreo"
+estado: activo
+
+perfil:
+  identidad_publica: "Norman Osborn. CEO de Oscorp Industries."
+  motivacion: "Alcanzar el poder político y económico absoluto, erradicar a Spider-Man y demostrar su superioridad intelectual sobre la élite."
+  frase_celebre: "Dioses no eligen. ¡Dioses toman!"
+
+habilidades:
+  - Fuerza, agilidad y reflejos sobrehumanos por la Fórmula Duende
+  - Intelecto de nivel genio en química, ingeniería y cibernética
+  - Manejo experto de tecnología táctica y aeronáutica
+  - Dominio de la manipulación corporativa y estrategia militar
+
+debilidades:
+  - Inestabilidad mental severa y trastorno de identidad disociativa (Norman vs Duende)
+  - Ego desmedido que lo hace actuar de forma impulsiva al ser humillado
+  - Dependencia de la Fórmula Duende para mantener su rendimiento físico
+
+recursos:
+  - Infraestructura tecnológica y laboratorios I+D de Oscorp Industries
+  - Deslizador Duende con misiles guiados y metralletas integradas
+  - Arsenal de Bombas Calabaza (explosivas, de gas y de plasma) y shurikens murciélago
+  - Red de contactos políticos y corporativos de alto nivel
+
+rol_en_la_legion: |
+  El Duende Verde aporta financiamiento encubierto a través de filiales de
+  Oscorp y desarrollo de tecnología de combate aéreo. Su función principal es
+  desarticular la defensa de los héroes urbanos y coordinar ataques sorpresa de
+  alta velocidad. Ve en la Legión una oportunidad para expandir su imperio y
+  aplastar a Spider-Man definitivamente.
+
+rivalidad_principal: Spider-Man
+guarida_asignada: "Laboratorio Subterráneo de Oscorp"
+misiones_completadas: 9
+misiones_fallidas: 4
+
+notas_confidenciales: |
+  Norman lucha constantemente por mantener oculto su alter ego ante la junta
+  directiva de Oscorp. Ha intentado hackear discretamente los servidores de
+  Brainiac para replicar tecnología alienígena e integrarla en su Deslizador.
+  Lex Luthor considera al Duende Verde un aliado valioso pero volátil debido
+  a su psicosis, existiendo una fuerte tensión entre ambos sobre quién es el
+  verdadero líder financiero del grupo.
